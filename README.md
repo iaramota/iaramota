@@ -9,7 +9,7 @@ Olá, eu me chamo Iara!!
   <img align="center" alt="iara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="iara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="iara-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="iara-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/296093_TjLLM72D.png">
+  <img align="right" alt="iara-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/1650778_5ArP8YrJ.png">
 </div>
   
   ##
